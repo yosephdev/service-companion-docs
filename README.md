@@ -10,7 +10,7 @@ Welcome to the official GitHub repository for Service Companion GPT, the AI-powe
 - **Sentiment Analysis:** Detect customer sentiment to prioritize and escalate support tickets as needed.
 
 ## Getting Started with Service Companion GPT
-Start enhancing your e-commerce customer service with Service Companion GPT. For a guide on how to integrate and make the most out of Service Companion, please visit our setup page directly at [Service Companion on OpenAI](https://chat.openai.com/gpts/service-companion).
+Start enhancing your e-commerce customer service with Service Companion GPT. For a guide on how to integrate and make the most out of Service Companion, please visit our setup page directly at [Service Companion on OpenAI] (https://chat.openai.com/g/g-tSxHV8Umc-service-companion).
 
 ## Privacy and Compliance
 We are dedicated to your privacy and the responsible handling of your information. Read our [Privacy Policy](/PRIVACY_POLICY.md) for comprehensive details on our data practices.
